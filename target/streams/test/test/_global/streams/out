@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TranscribeSpec, org.scalatest.tools.Framework$$anon$1@2f9c3752, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReverseComplementSpec, org.scalatest.tools.Framework$$anon$1@2f9c3752, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTranscribeSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtranscribe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle the empty string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should transcribe T[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should transcribe single-character strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should transcribe several strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReverseComplementSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mreverseComplement[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle the empty string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should complement single-character strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should complement multi-character strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 98 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TranscribeSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseComplementSpec[0m
